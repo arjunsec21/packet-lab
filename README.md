@@ -14,3 +14,7 @@ November 2021 was particularly memorable.
 I didn't know much about cybersecurity at the time,
 but the meetup motivated me to start participating
 in CTFs.
+## Journal
+
+I wrote down some memories from my first cybersecurity
+meetup in my [security journal](https://arjunsec21.github.io/posts/november-2021.html).
