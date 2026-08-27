@@ -17,4 +17,4 @@ in CTFs.
 ## Journal
 
 I wrote down some memories from my first cybersecurity
-meetup in my [security journal](https://arjunsec21.github.io/posts/november-2021.html).
+meetup in my [security journal](https://arjunsec21.github.io/).
